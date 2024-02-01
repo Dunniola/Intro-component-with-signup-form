@@ -1,0 +1,5 @@
+body, main, footer, h1,h4, span, p, img, div, button, input, label {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
