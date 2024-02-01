@@ -40,7 +40,7 @@ Mobile desiign
 ### Links
 
 - Solution URL: [View Demo](https://github.com/Dunniola/Intro-component-with-signup-form)
-- Live Site URL: [Github App](https://your-live-site-url.com)
+- Live Site URL: [Github App](https://dunniola.github.io/Intro-component-with-signup-form/)
 
 ## My process
 
@@ -54,7 +54,7 @@ Mobile desiign
 
 ## Author
 
-- Website - [Dunniola](https://www.your-site.com)
+- Website - [Dunniola](https://dunniola.github.io/Intro-component-with-signup-form/)
 - Frontend Mentor - [@Dunniola](https://www.frontendmentor.io/profile/Dunniola)
 - Twitter - [@Eduoladunni](https://www.twitter.com/Eduoladunni)
 
